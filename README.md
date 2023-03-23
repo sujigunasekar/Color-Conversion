@@ -101,8 +101,6 @@ cv2.waitKey(0)
 cv2.destoryAllWindows()
 
 
-
-```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 ![Screenshot from 2023-03-23 14-39-21](https://user-images.githubusercontent.com/119559822/227157567-7c485387-c96f-4fb8-93ca-e986de8450b7.png)
@@ -113,8 +111,7 @@ cv2.destoryAllWindows()
 
 ### iii) RGB and BGR to file:
 
-![Screenshot from 2023-03-2 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-03-23%2014-41-16.png
-
+![Screenshot from 2023-03-23 14-35-31](https://user-images.githubusercontent.com/119559822/227158533-e45aa61b-ae26-4385-8742-267a50a748b9.png)
 
 ### iv) Split and merge RGB Image
 
