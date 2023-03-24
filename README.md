@@ -102,24 +102,18 @@ cv2.destoryAllWindows()
 
 
 ## Output:
-### i) BGR and RGB to HSV and GRAY
-![Screenshot from 2023-03-23 14-39-21](https://user-images.githubusercontent.com/119559822/227157567-7c485387-c96f-4fb8-93ca-e986de8450b7.png)
+# i) BGR and RGB to HSV and GRAY
 
-### ii) HSV to RGB and BGR
-![Screenshot from 2023-03-23 14-38-11](https://user-images.githubusercontent.com/119559822/227157654-8ff78e46-25dc-4666-9479-cba490f17b95.png)
+# ii) HSV to RGB and BGR
 
+![Screenshot from 2023-03-23 14-38-11](https://user-images.githubusercontent.com/119559822/227412113-006aa7cf-fc32-4a04-a78e-6e50db8a3d4f.png)
 
-### iii) RGB and BGR to file:
+### iii) RGB and BGR to file
 
-![Screenshot from 2023-03-23 14-35-31](https://user-images.githubusercontent.com/119559822/227158533-e45aa61b-ae26-4385-8742-267a50a748b9.png)
 
 ### iv) Split and merge RGB Image
 
-![Screenshot from 2023-03-23 14-41-16](https://user-images.githubusercontent.com/119559822/227158018-cb7905f1-b49f-48aa-8de1-cb53186e2441.png)
 
 ### v) Split and merge HSV Image
 
-![Screenshot from 2023-03-23 14-42-42](https://user-images.githubusercontent.com/119559822/227158099-51678c8d-8599-494b-9f1f-377ae46a1a37.png)
-
-## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
