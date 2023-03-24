@@ -22,7 +22,7 @@ Split and merge the image using cv2.split and cv2.merge commands.
 End the program and close the output image windows.
 
 ## Program:
-```python
+```
 # Developed By:Suji.G
 # Register Number:212222230152
 
@@ -99,21 +99,24 @@ Merged_HSV=cv2.merge((h,s,v))
 cv2.imshow('Merged HSV Image',Merged_HSV)
 cv2.waitKey(0)
 cv2.destoryAllWindows()
-
+```
 
 ## Output:
 # i) BGR and RGB to HSV and GRAY
+![Screenshot from 2023-03-23 14-39-21](https://user-images.githubusercontent.com/119559822/227412562-4ee27e59-e464-48ac-8e18-0db5fd68031f.png)
 
 # ii) HSV to RGB and BGR
+![Screenshot from 2023-03-23 14-38-11](https://user-images.githubusercontent.com/119559822/227412507-58a9279a-d0f6-4aa7-8795-135f81b11579.png)
 
-![Screenshot from 2023-03-23 14-38-11](https://user-images.githubusercontent.com/119559822/227412113-006aa7cf-fc32-4a04-a78e-6e50db8a3d4f.png)
+# iii) RGB and BGR to file
+![Screenshot from 2023-03-23 14-35-31](https://user-images.githubusercontent.com/119559822/227412588-cc9541f4-486e-4051-a447-63c078c57dcd.png)
 
-### iii) RGB and BGR to file
+# iv) Split and merge RGB Image
+![Screenshot from 2023-03-23 14-41-16](https://user-images.githubusercontent.com/119559822/227412637-09d7684d-d7da-4364-8e66-0a05c9786ecf.png)
 
+ ### v) Splitand merge HSV Image
+![Screenshot from 2023-03-23 14-42-42](https://user-images.githubusercontent.com/119559822/227412735-6f4a55fb-2adf-4f9f-9950-1ac9e0c7d20d.png)
 
-### iv) Split and merge RGB Image
-
-
-### v) Split and merge HSV Image
+##RESULT:
 
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
